@@ -1,5 +1,4 @@
-Feature Engineering and Classifier
- Based on specified dataset, preprocessing the data, select  features and train and evaluate a machine learning model of this choice for classifying news  articles.
+Based on specified dataset, preprocessing the data, select  features and train and evaluate a machine learning model of this choice for classifying news  articles.
  
 This project include 3 .ipynb files and a data file "bbc".
 
